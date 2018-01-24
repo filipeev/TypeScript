@@ -6,8 +6,7 @@
 
 // @Filename: a.js
 ////let x = "";
-////x = 1;
-////x = true;
+////x = 1; //x = true;
 
 verify.codeFixAll({
     fixId: "disableJsDiagnostics",
